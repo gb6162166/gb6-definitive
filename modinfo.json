@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.kasa.mappack",
+  "display_name": "Jinxed Map Pack",
+  "description": "4v4 and 5v5 Nomegatron map variations for all sorts of weather and a few Doomsday Earth scenarios with some bits of lore.",
+  "author": "kasa",
+  "version": "1.2.1",
+  "build": "120799",
+  "date": "2024-10-25",
+  "signature": " ",
+  "forum": "https://github.com/kasa0246/jinxed-maps/discussions",
+  "icon": "https://raw.githubusercontent.com/kasa0246/jinxed-maps/sub/icon.png",
+  "category": [
+	  "maps",
+	  "titans"
+    ],
+  "scenes": {
+        "load_planet": [
+            "coui://ui/mods/kasa/maps.js"
+        ]
+    },
+  "dependencies": [
+        "com.pa.conundrum.cShareSystems",
+	"com.pa.grandhomie.simplebiomes.server",
+	"com.wondible.pa.junkyard_biome.server",
+	"uk.pa.tetctree.server"
+    ]
+}
