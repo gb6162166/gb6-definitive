@@ -2,7 +2,7 @@
   "context": "client",
   "identifier": "com.pa.gb6.mappack",
   "display_name": "# gb6 Definitive",
-  "description": "A collection of maps by gb6, with his definitive style and philosophy of map design for Planetary Annihilation. All maps have been extensively tested by human players. All maps are also Ai friendly, and the Ai should be set to Hard difficulty with economy boost of 1.2x or 1.3x - this will make the maps play at their best. The only exception is the map Reservoir Block, which should use the Uber-Platoon Ai.",
+  "description": "A collection of maps by gb6, with his definitive style and philosophy of map design for Planetary Annihilation. All maps have been extensively tested by human players. Also, all maps are Ai friendly, and the Ai should be set to Hard difficulty with economy boost of 1.2x or 1.3x - this will make the maps play at their best. The only exception is the map Reservoir Block, which should use the Uber-Platoon Ai.",
   "author": "gb6",
   "version": "1.0.0",
   "build": "120799",
