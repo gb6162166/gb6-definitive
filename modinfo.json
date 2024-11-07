@@ -1,28 +1,27 @@
 {
   "context": "client",
-  "identifier": "com.pa.kasa.mappack",
-  "display_name": "Jinxed Map Pack",
-  "description": "4v4 and 5v5 Nomegatron map variations for all sorts of weather and a few Doomsday Earth scenarios with some bits of lore.",
-  "author": "kasa",
-  "version": "1.2.1",
-  "build": "120799",
-  "date": "2024-10-25",
+  "identifier": "com.pa.gb6.mappack",
+  "display_name": "# gb6 - definitive maps",
+  "description": "A collection of maps by gb6 with a defined style and philosophy of map design for Planetary Annihilation.",
+  "author": "gb6",
+  "version": "1.0.0",
+  "build": "77777",
+  "date": "2024-11-08",
   "signature": " ",
-  "forum": "https://github.com/kasa0246/jinxed-maps/discussions",
-  "icon": "https://raw.githubusercontent.com/kasa0246/jinxed-maps/sub/icon.png",
+  "forum": "https://github.com/gb6162166/gb6-definitive/discussions",
+  "icon": "https://raw.githubusercontent.com/gb6162166/gb6-definitive/sub/icon.png",
   "category": [
 	  "maps",
 	  "titans"
     ],
   "scenes": {
         "load_planet": [
-            "coui://ui/mods/kasa/maps.js"
+            "coui://ui/mods/gb6/maps.js"
         ]
     },
   "dependencies": [
         "com.pa.conundrum.cShareSystems",
 	"com.pa.grandhomie.simplebiomes.server",
-	"com.wondible.pa.junkyard_biome.server",
 	"uk.pa.tetctree.server"
     ]
 }
