@@ -1,4 +1,4 @@
-cShareSystems.load_pas("# gb6 Definitive", [
+cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/orb_three.pas",
 	"coui://ui/mods/gb6/systems/orb_four.pas",
 	"coui://ui/mods/gb6/systems/orb_five.pas",
