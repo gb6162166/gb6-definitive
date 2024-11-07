@@ -19,5 +19,9 @@ cShareSystems.load_pas("# gb6 Definitive", [
 	"coui://ui/mods/gb6/systems/vault_six_3.pas",
 	"coui://ui/mods/gb6/systems/vault_eight.pas",
 	"coui://ui/mods/gb6/systems/city_8.pas",
-	"coui://ui/mods/gb6/systems/city_4.pas"
+	"coui://ui/mods/gb6/systems/city_4.pas",
+	"coui://ui/mods/gb6/systems/fort.pas",
+	"coui://ui/mods/gb6/systems/moor.pas",
+	"coui://ui/mods/gb6/systems/moon.pas",
+	"coui://ui/mods/gb6/systems/block.pas"
 ]);
