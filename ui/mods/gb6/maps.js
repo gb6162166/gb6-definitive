@@ -11,5 +11,13 @@ cShareSystems.load_pas("# gb6 Definitive", [
 	"coui://ui/mods/gb6/systems/green_arena_8.pas",
 	"coui://ui/mods/gb6/systems/green_arena_3.pas",
 	"coui://ui/mods/gb6/systems/cold_3.pas",
-	"coui://ui/mods/gb6/systems/cold_2.pas"
+	"coui://ui/mods/gb6/systems/cold_2.pas",
+	"coui://ui/mods/gb6/systems/cove.pas",
+	"coui://ui/mods/gb6/systems/pit_6.pas",
+	"coui://ui/mods/gb6/systems/pit_4.pas",
+	"coui://ui/mods/gb6/systems/vault_six_6.pas",
+	"coui://ui/mods/gb6/systems/vault_six_3.pas",
+	"coui://ui/mods/gb6/systems/vault_eight.pas",
+	"coui://ui/mods/gb6/systems/city_8.pas",
+	"coui://ui/mods/gb6/systems/city_4.pas"
 ]);
