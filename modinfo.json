@@ -21,7 +21,6 @@
     },
   "dependencies": [
         "com.pa.conundrum.cShareSystems",
-	"com.pa.grandhomie.simplebiomes.server",
-	"uk.pa.tetctree.server"
+	"com.pa.grandhomie.simplebiomes.server"
     ]
 }
