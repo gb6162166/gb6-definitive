@@ -2,7 +2,7 @@
   "context": "client",
   "identifier": "com.pa.gb6.mappack",
   "display_name": "# gb6 Definitive",
-  "description": "A collection of maps by gb6, with a definitive style and philosophy of map design for Planetary Annihilation. All maps have been extensively tested by human players. Also, all maps are Ai friendly, and the Ai should be set to Hard difficulty with economy boost of 1.2x or 1.3x - this will make the maps play at their best. The only exception is the map Reservoir Block, which should use the Uber-Platoon Ai. The last maps in the pack are the 5 v 5 maps, for which I only redid the metal layout. Because there is only one good way to layout a 5 v 5, I did not want to re-invent the wheel (literally) - and I give credit in the map descriptions.",
+  "description": "A collection of maps by gb6, with a definitive style and philosophy of map design for Planetary Annihilation. All maps have been extensively tested by human players. Also, all maps are Ai friendly, and the Ai should be set to Hard difficulty with economy boost of 1.2x or 1.3x - this will make the maps play at their best. The only exception is the map Reservoir Block, which should use the Uber-Platoon Ai. There are two 5 v 5 maps, for which I only redid the metal layout and I give credit in the map descriptions. Red Line 2, also by gb6, is available in community mods and is a unit expansion mod specifically designed for #gb6 maps. Install Red Line 2 for maximum balance and fun.",
   "author": "gb6",
   "version": "1.0.2",
   "build": "120799",
