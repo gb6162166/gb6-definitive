@@ -25,5 +25,10 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/moon.pas",
 	"coui://ui/mods/gb6/systems/block.pas",
 	"coui://ui/mods/gb6/systems/starborn.pas",
-	"coui://ui/mods/gb6/systems/station.pas"
+	"coui://ui/mods/gb6/systems/station.pas",
+	"coui://ui/mods/gb6/systems/apple_1.pas",
+	"coui://ui/mods/gb6/systems/apple_2.pas",
+	"coui://ui/mods/gb6/systems/fortx.pas",
+	"coui://ui/mods/gb6/systems/castle.pas",
+	"coui://ui/mods/gb6/systems/canyon.pas"
 ]);
