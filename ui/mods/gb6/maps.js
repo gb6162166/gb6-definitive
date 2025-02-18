@@ -34,5 +34,8 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/canyon.pas",
 	"coui://ui/mods/gb6/systems/lunar_1.pas",
 	"coui://ui/mods/gb6/systems/lunar_2.pas",
-	"coui://ui/mods/gb6/systems/gate_3.pas"
+	"coui://ui/mods/gb6/systems/gate_3.pas",
+	"coui://ui/mods/gb6/systems/croft.pas",
+	"coui://ui/mods/gb6/systems/lunar_5.pas",
+	"coui://ui/mods/gb6/systems/cinco.pas"
 ]);
