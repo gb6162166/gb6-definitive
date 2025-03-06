@@ -37,5 +37,10 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/gate_3.pas",
 	"coui://ui/mods/gb6/systems/croft.pas",
 	"coui://ui/mods/gb6/systems/lunar_5.pas",
-	"coui://ui/mods/gb6/systems/cinco.pas"
+	"coui://ui/mods/gb6/systems/cinco.pas",
+	"coui://ui/mods/gb6/systems/red_head_3ffa.pas",
+	"coui://ui/mods/gb6/systems/red_head_6ffa.pas",
+	"coui://ui/mods/gb6/systems/red_head_3v3.pas",
+	"coui://ui/mods/gb6/systems/moon_head_4v4.pas",
+	"coui://ui/mods/gb6/systems/green_head_5v5.pas"
 ]);
