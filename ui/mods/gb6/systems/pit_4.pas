@@ -28,7 +28,7 @@
                 "metalClusters": 0,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
-                "biome": "sandbox",
+                "biome": "lava",
                 "symmetryType": "none",
                 "symmetricalMetal": false,
                 "symmetricalStarts": false,
@@ -39,15 +39,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 501.25927734375,
                     "op": "BO_Add",
                     "position": [
                         0.007590293884277344,
                         -354.0244445800781,
                         354.86273193359375
                     ],
-                    "height": 501.25927734375,
                     "transform": [
                         0.9982008934020996,
                         -0.059957750141620636,
@@ -82,21 +82,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 500.10394287109375,
                     "op": "BO_Add",
                     "position": [
                         -0.4050140380859375,
                         -353.2037353515625,
                         -354.04931640625
                     ],
-                    "height": 500.10394287109375,
                     "transform": [
                         0.9986501336097717,
                         -0.05193508788943291,
@@ -131,21 +131,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.1522521972656,
                     "op": "BO_Subtract",
                     "position": [
                         303.37774658203125,
                         352.8608093261719,
                         180.56619262695312
                     ],
-                    "height": 499.1522521972656,
                     "transform": [
                         -0.396207332611084,
                         -0.27868419885635376,
@@ -180,21 +180,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 499.4104919433594,
                     "op": "BO_Add",
                     "position": [
                         -276.533935546875,
                         151.33917236328125,
                         -387.34515380859375
                     ],
-                    "height": 499.4104919433594,
                     "transform": [
                         -0.7718179821968079,
                         -0.31255489587783813,
@@ -229,21 +229,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.85687255859375,
                     "op": "BO_Add",
                     "position": [
                         -350.5843505859375,
                         -50.899715423583984,
                         -352.6424865722656
                     ],
-                    "height": 499.85687255859375,
                     "transform": [
                         0.7120586633682251,
                         0.03245249390602112,
@@ -278,21 +278,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.37158203125,
                     "op": "BO_Add",
                     "position": [
                         0.3777923583984375,
                         56.683433532714844,
                         -496.1439514160156
                     ],
-                    "height": 499.37158203125,
                     "transform": [
                         -0.990916907787323,
                         0.1344730257987976,
@@ -327,21 +327,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 500.376708984375,
                     "op": "BO_Add",
                     "position": [
                         0.19337844848632812,
                         -56.23888397216797,
                         -497.2062072753906
                     ],
-                    "height": 500.376708984375,
                     "transform": [
                         0.9946852326393127,
                         -0.102961964905262,
@@ -376,21 +376,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 500.6986083984375,
                     "op": "BO_Add",
                     "position": [
                         0.8180007934570312,
                         -497.7629699707031,
                         -54.133697509765625
                     ],
-                    "height": 500.6986083984375,
                     "transform": [
                         -0.9995554685592651,
                         0.02976968139410019,
@@ -425,21 +425,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.24444580078125,
                     "op": "BO_Add",
                     "position": [
                         0.30666351318359375,
                         -496.7077941894531,
                         50.26228713989258
                     ],
-                    "height": 499.24444580078125,
                     "transform": [
                         0.9995663166046143,
                         -0.029440518468618393,
@@ -474,21 +474,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 502.0830993652344,
                     "op": "BO_Add",
                     "position": [
                         0.20158052444458008,
                         -56.211456298828125,
                         498.926513671875
                     ],
-                    "height": 502.0830993652344,
                     "transform": [
                         -0.9937821626663208,
                         0.11134117841720581,
@@ -523,21 +523,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 501.0401916503906,
                     "op": "BO_Add",
                     "position": [
                         -0.30870819091796875,
                         56.22312927246094,
                         497.8756103515625
                     ],
-                    "height": 501.0401916503906,
                     "transform": [
                         0.9872326254844666,
                         -0.15928395092487335,
@@ -572,21 +572,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 500.4239807128906,
                     "op": "BO_Add",
                     "position": [
                         150.17922973632812,
                         0.034674644470214844,
                         -477.3576965332031
                     ],
-                    "height": 500.4239807128906,
                     "transform": [
                         0.13191083073616028,
                         0.9447414875030518,
@@ -621,21 +621,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 500.1016845703125,
                     "op": "BO_Add",
                     "position": [
                         -150.03732299804688,
                         0.6978378295898438,
                         -477.0639343261719
                     ],
-                    "height": 500.1016845703125,
                     "transform": [
                         -0.1522844135761261,
                         -0.9417015314102173,
@@ -670,21 +670,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 497.2165832519531,
                     "op": "BO_Add",
                     "position": [
                         -0.7435302734375,
                         494.65283203125,
                         -50.421905517578125
                     ],
-                    "height": 497.2165832519531,
                     "transform": [
                         0.994135320186615,
                         -0.10813245177268982,
@@ -719,21 +719,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 498.51080322265625,
                     "op": "BO_Add",
                     "position": [
                         -0.16949844360351562,
                         495.6607971191406,
                         53.22942352294922
                     ],
-                    "height": 498.51080322265625,
                     "transform": [
                         -0.9999361634254456,
                         0.011289470829069614,
@@ -768,21 +768,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.639404296875,
                     "op": "BO_Add",
                     "position": [
                         -162.74307250976562,
                         -472.3918762207031,
                         -0.36458587646484375
                     ],
-                    "height": 499.639404296875,
                     "transform": [
                         -0.10494603216648102,
                         -0.9396234154701233,
@@ -817,21 +817,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.5838928222656,
                     "op": "BO_Add",
                     "position": [
                         161.90220642089844,
                         -472.6220703125,
                         0.3391304016113281
                     ],
-                    "height": 499.5838928222656,
                     "transform": [
                         0.12357288599014282,
                         0.9379262924194336,
@@ -866,21 +866,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 500.28765869140625,
                     "op": "BO_Add",
                     "position": [
                         -149.69375610351562,
                         -0.5664443969726562,
                         477.366943359375
                     ],
-                    "height": 500.28765869140625,
                     "transform": [
                         -0.13256807625293732,
                         -0.94493168592453,
@@ -915,21 +915,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.8276672363281,
                     "op": "BO_Add",
                     "position": [
                         149.53379821777344,
                         -0.2051849365234375,
                         476.935302734375
                     ],
-                    "height": 499.8276672363281,
                     "transform": [
                         0.1432838886976242,
                         0.9433804154396057,
@@ -964,21 +964,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.447021484375,
                     "op": "BO_Add",
                     "position": [
                         162.23182678222656,
                         472.3644104003906,
                         -0.10012054443359375
                     ],
-                    "height": 499.447021484375,
                     "transform": [
                         0.1241903305053711,
                         0.9375855922698975,
@@ -1013,21 +1013,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 497.5367126464844,
                     "op": "BO_Add",
                     "position": [
                         -161.821044921875,
                         470.4856262207031,
                         -0.08977508544921875
                     ],
-                    "height": 497.5367126464844,
                     "transform": [
                         -0.12058839201927185,
                         -0.937909722328186,
@@ -1062,21 +1062,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.3056945800781,
                     "op": "BO_Add",
                     "position": [
                         -231.39569091796875,
                         -0.5558080673217773,
                         442.44989013671875
                     ],
-                    "height": 499.3056945800781,
                     "transform": [
                         0.11584456264972687,
                         0.8785261511802673,
@@ -1111,21 +1111,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.4339904785156,
                     "op": "BO_Add",
                     "position": [
                         -244.78443908691406,
                         -435.3330078125,
                         -0.20800209045410156
                     ],
-                    "height": 499.4339904785156,
                     "transform": [
                         0.13307031989097595,
                         0.8614354133605957,
@@ -1160,21 +1160,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.98944091796875,
                     "op": "BO_Add",
                     "position": [
                         -231.5788116455078,
                         0.76239013671875,
                         -443.1253967285156
                     ],
-                    "height": 499.98944091796875,
                     "transform": [
                         0.08513586968183517,
                         0.8821719884872437,
@@ -1209,21 +1209,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.24371337890625,
                     "op": "BO_Add",
                     "position": [
                         -350.82342529296875,
                         -351.93798828125,
                         48.02973175048828
                     ],
-                    "height": 499.24371337890625,
                     "transform": [
                         0.7101186513900757,
                         0.04393807053565979,
@@ -1258,21 +1258,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 500.49835205078125,
                     "op": "BO_Add",
                     "position": [
                         -354.135498046875,
                         -350.5592346191406,
                         -46.849613189697266
                     ],
-                    "height": 500.49835205078125,
                     "transform": [
                         -0.7055259346961975,
                         0.03979825973510742,
@@ -1307,21 +1307,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.86956787109375,
                     "op": "BO_Add",
                     "position": [
                         -353.41455078125,
                         51.91399383544922,
                         -349.67510986328125
                     ],
-                    "height": 499.86956787109375,
                     "transform": [
                         -0.6989573240280151,
                         0.10766050219535828,
@@ -1356,21 +1356,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 498.24371337890625,
                     "op": "BO_Add",
                     "position": [
                         -352.14013671875,
                         349.0989685058594,
                         48.72422409057617
                     ],
-                    "height": 498.24371337890625,
                     "transform": [
                         -0.7005106210708618,
                         0.09884947538375854,
@@ -1405,21 +1405,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 497.28271484375,
                     "op": "BO_Add",
                     "position": [
                         -348.24468994140625,
                         351.80487060546875,
                         -47.424217224121094
                     ],
-                    "height": 497.28271484375,
                     "transform": [
                         0.7123719453811646,
                         0.045965760946273804,
@@ -1454,21 +1454,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 498.4007873535156,
                     "op": "BO_Add",
                     "position": [
                         -351.251708984375,
                         -50.90367126464844,
                         349.9062805175781
                     ],
-                    "height": 498.4007873535156,
                     "transform": [
                         -0.7013500332832336,
                         0.1068882942199707,
@@ -1503,21 +1503,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.0328369140625,
                     "op": "BO_Add",
                     "position": [
                         -351.0008239746094,
                         51.31580352783203,
                         350.99700927734375
                     ],
-                    "height": 499.0328369140625,
                     "transform": [
                         0.7095623016357422,
                         0.042461566627025604,
@@ -1552,21 +1552,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 498.03875732421875,
                     "op": "BO_Add",
                     "position": [
                         -243.72218322753906,
                         434.32940673828125,
                         0.24646759033203125
                     ],
-                    "height": 498.03875732421875,
                     "transform": [
                         0.10415121912956238,
                         0.8658380508422852,
@@ -1601,21 +1601,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 500.05865478515625,
                     "op": "BO_Add",
                     "position": [
                         231.41177368164062,
                         0.5752716064453125,
                         -443.291015625
                     ],
-                    "height": 500.05865478515625,
                     "transform": [
                         -0.11096759885549545,
                         -0.8795061707496643,
@@ -1650,21 +1650,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.3770751953125,
                     "op": "BO_Add",
                     "position": [
                         243.86383056640625,
                         435.7841796875,
                         0.2142791748046875
                     ],
-                    "height": 499.3770751953125,
                     "transform": [
                         -0.11238595843315125,
                         -0.8653885722160339,
@@ -1699,21 +1699,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 499.1600036621094,
                     "op": "BO_Add",
                     "position": [
                         230.96621704101562,
                         0.06992006301879883,
                         442.51025390625
                     ],
-                    "height": 499.1600036621094,
                     "transform": [
                         -0.12304017692804337,
                         -0.8779298663139343,
@@ -1748,21 +1748,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
+                    "height": 500.7142028808594,
                     "op": "BO_Add",
                     "position": [
                         244.8082275390625,
                         -436.78778076171875,
                         0.30633544921875
                     ],
-                    "height": 500.7142028808594,
                     "transform": [
                         -0.11195561289787292,
                         -0.8651156425476074,
@@ -1797,21 +1797,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 501.04931640625,
                     "op": "BO_Add",
                     "position": [
                         352.5544738769531,
                         -352.43817138671875,
                         50.42921829223633
                     ],
-                    "height": 501.04931640625,
                     "transform": [
                         0.6997389197349548,
                         -0.12356016039848328,
@@ -1846,21 +1846,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 500.7428894042969,
                     "op": "BO_Add",
                     "position": [
                         352.55010986328125,
                         -352.0929870605469,
                         -49.823638916015625
                     ],
-                    "height": 500.7428894042969,
                     "transform": [
                         -0.7096798419952393,
                         0.025734633207321167,
@@ -1895,21 +1895,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 499.6864318847656,
                     "op": "BO_Add",
                     "position": [
                         351.70953369140625,
                         351.5356750488281,
                         49.08770751953125
                     ],
-                    "height": 499.6864318847656,
                     "transform": [
                         -0.7099297046661377,
                         -0.024090081453323364,
@@ -1944,21 +1944,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 500.6662292480469,
                     "op": "BO_Add",
                     "position": [
                         352.13201904296875,
                         352.45611572265625,
                         -49.44083023071289
                     ],
-                    "height": 500.6662292480469,
                     "transform": [
                         0.6932203769683838,
                         -0.15740647912025452,
@@ -1993,21 +1993,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 500.56640625,
                     "op": "BO_Subtract",
                     "position": [
                         -331.1313171386719,
                         274.92974853515625,
                         255.60208129882812
                     ],
-                    "height": 500.56640625,
                     "transform": [
                         0.05088922381401062,
                         0.9360343217849731,
@@ -2042,21 +2042,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 496.49169921875,
                     "op": "BO_Subtract",
                     "position": [
                         -329.5679931640625,
                         251.58087158203125,
                         -273.1226806640625
                     ],
-                    "height": 496.49169921875,
                     "transform": [
                         -0.020975828170776367,
                         0.9346593618392944,
@@ -2091,21 +2091,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 497.32635498046875,
                     "op": "BO_Subtract",
                     "position": [
                         -318.4028625488281,
                         -247.35098266601562,
                         291.1539306640625
                     ],
-                    "height": 497.32635498046875,
                     "transform": [
                         -0.15741248428821564,
                         0.9472393989562988,
@@ -2140,21 +2140,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 498.854248046875,
                     "op": "BO_Subtract",
                     "position": [
                         323.10992431640625,
                         254.92620849609375,
                         281.9010009765625
                     ],
-                    "height": 498.854248046875,
                     "transform": [
                         0.018595218658447266,
                         -0.9521832466125488,
@@ -2189,21 +2189,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 500.3945617675781,
                     "op": "BO_Subtract",
                     "position": [
                         324.7765197753906,
                         -278.2304382324219,
                         259.8128967285156
                     ],
-                    "height": 500.3945617675781,
                     "transform": [
                         -0.03310990333557129,
                         -0.9503652453422546,
@@ -2238,21 +2238,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 502.1867980957031,
                     "op": "BO_Subtract",
                     "position": [
                         322.45379638671875,
                         -253.09597778320312,
                         -290.0992431640625
                     ],
-                    "height": 502.1867980957031,
                     "transform": [
                         0.10272142291069031,
                         -0.9527552127838135,
@@ -2287,21 +2287,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 499.62603759765625,
                     "op": "BO_Subtract",
                     "position": [
                         322.4846496582031,
                         287.9244384765625,
                         -250.45828247070312
                     ],
-                    "height": 499.62603759765625,
                     "transform": [
                         0.09269309043884277,
                         -0.9502405524253845,
@@ -2336,21 +2336,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 498.6712341308594,
                     "op": "BO_Add",
                     "position": [
                         351.07928466796875,
                         -49.96530532836914,
                         350.5992126464844
                     ],
-                    "height": 498.6712341308594,
                     "transform": [
                         -0.7100709676742554,
                         -0.011903632432222366,
@@ -2385,21 +2385,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 498.7427673339844,
                     "op": "BO_Add",
                     "position": [
                         351.1880798339844,
                         49.70911407470703,
                         350.62841796875
                     ],
-                    "height": 498.7427673339844,
                     "transform": [
                         0.7088576555252075,
                         -0.04120990261435509,
@@ -2434,21 +2434,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 502.4640197753906,
                     "op": "BO_Add",
                     "position": [
                         353.31768798828125,
                         -50.75804138183594,
                         -353.6387023925781
                     ],
-                    "height": 502.4640197753906,
                     "transform": [
                         0.6988059282302856,
                         -0.13123288750648499,
@@ -2483,21 +2483,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
+                    "height": 501.59075927734375,
                     "op": "BO_Add",
                     "position": [
                         352.0266418457031,
                         54.02824783325195,
                         -353.2017517089844
                     ],
-                    "height": 501.59075927734375,
                     "transform": [
                         -0.7115709781646729,
                         -0.033390581607818604,
@@ -2532,21 +2532,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 500.1911926269531,
                     "op": "BO_Add",
                     "position": [
                         -0.742340087890625,
                         354.1576232910156,
                         353.2181396484375
                     ],
-                    "height": 500.1911926269531,
                     "transform": [
                         0.9995672106742859,
                         -0.029379842802882195,
@@ -2581,21 +2581,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.3299560546875,
                     "op": "BO_Subtract",
                     "position": [
                         312.6802062988281,
                         180.94216918945312,
                         -346.1518249511719
                     ],
-                    "height": 500.3299560546875,
                     "transform": [
                         -0.36993804574012756,
                         -0.29986461997032166,
@@ -2630,21 +2630,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.6685485839844,
                     "op": "BO_Subtract",
                     "position": [
                         312.2507019042969,
                         -346.56524658203125,
                         -181.82687377929688
                     ],
-                    "height": 500.6685485839844,
                     "transform": [
                         -0.37137138843536377,
                         -0.2990838587284088,
@@ -2679,21 +2679,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.2006530761719,
                     "op": "BO_Subtract",
                     "position": [
                         293.1865234375,
                         -177.2208709716797,
                         363.0918884277344
                     ],
-                    "height": 499.2006530761719,
                     "transform": [
                         -0.42891639471054077,
                         -0.2445005476474762,
@@ -2728,21 +2728,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.5606994628906,
                     "op": "BO_Subtract",
                     "position": [
                         -304.70489501953125,
                         177.67672729492188,
                         353.7609558105469
                     ],
-                    "height": 499.5606994628906,
                     "transform": [
                         0.42629292607307434,
                         0.22790543735027313,
@@ -2777,21 +2777,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 495.4711608886719,
                     "op": "BO_Subtract",
                     "position": [
                         -307.5477294921875,
                         349.83245849609375,
                         -168.88839721679688
                     ],
-                    "height": 495.4711608886719,
                     "transform": [
                         0.4096391499042511,
                         0.24683889746665955,
@@ -2826,21 +2826,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.8948669433594,
                     "op": "BO_Subtract",
                     "position": [
                         -299.1686706542969,
                         -178.63153076171875,
                         -358.4463195800781
                     ],
-                    "height": 499.8948669433594,
                     "transform": [
                         0.43547680974006653,
                         0.22178737819194794,
@@ -2875,21 +2875,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
+                    "height": 499.8589782714844,
                     "op": "BO_Subtract",
                     "position": [
                         -330.45562744140625,
                         -273.39495849609375,
                         -256.73583984375
                     ],
-                    "height": 499.8589782714844,
                     "transform": [
                         0.08055365085601807,
                         0.934408962726593,
@@ -2924,21 +2924,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.0058288574219,
                     "op": "BO_Subtract",
                     "position": [
                         -311.1713562011719,
                         -345.2242126464844,
                         184.38671875
                     ],
-                    "height": 500.0058288574219,
                     "transform": [
                         0.37207192182540894,
                         0.29924553632736206,
@@ -2973,21 +2973,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 496.9332580566406,
                     "op": "BO_Subtract",
                     "position": [
                         6.318275451660156,
                         472.5589904785156,
                         -153.59274291992188
                     ],
-                    "height": 496.9332580566406,
                     "transform": [
                         -0.22229008376598358,
                         -0.3912222981452942,
@@ -3022,21 +3022,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.8812561035156,
                     "op": "BO_Subtract",
                     "position": [
                         10.781256675720215,
                         -156.53604125976562,
                         -475.67034912109375
                     ],
-                    "height": 500.8812561035156,
                     "transform": [
                         -0.20580384135246277,
                         -0.40006428956985474,
@@ -3071,21 +3071,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 498.69549560546875,
                     "op": "BO_Subtract",
                     "position": [
                         7.718405723571777,
                         -474.41815185546875,
                         153.5091094970703
                     ],
-                    "height": 498.69549560546875,
                     "transform": [
                         -0.2188452184200287,
                         -0.3931396007537842,
@@ -3120,21 +3120,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.08990478515625,
                     "op": "BO_Subtract",
                     "position": [
                         7.643559455871582,
                         156.0569305419922,
                         475.0555114746094
                     ],
-                    "height": 500.08990478515625,
                     "transform": [
                         -0.2242135852575302,
                         -0.39010438323020935,
@@ -3169,21 +3169,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.5621337890625,
                     "op": "BO_Subtract",
                     "position": [
                         -2.72882080078125,
                         466.9237060546875,
                         177.58688354492188
                     ],
-                    "height": 499.5621337890625,
                     "transform": [
                         0.26090550422668457,
                         0.43820205330848694,
@@ -3218,21 +3218,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 502.1624755859375,
                     "op": "BO_Subtract",
                     "position": [
                         -9.349163055419922,
                         -173.1435546875,
                         471.2760009765625
                     ],
-                    "height": 502.1624755859375,
                     "transform": [
                         0.25958317518234253,
                         0.43889281153678894,
@@ -3267,21 +3267,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.8957214355469,
                     "op": "BO_Subtract",
                     "position": [
                         -8.053821563720703,
                         -468.6185607910156,
                         -176.71534729003906
                     ],
-                    "height": 500.8957214355469,
                     "transform": [
                         0.255164235830307,
                         0.4415024518966675,
@@ -3316,21 +3316,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.43463134765625,
                     "op": "BO_Subtract",
                     "position": [
                         -7.5093841552734375,
                         175.62786865234375,
                         -467.4755554199219
                     ],
-                    "height": 499.43463134765625,
                     "transform": [
                         0.2656990885734558,
                         0.4352535009384155,
@@ -3365,21 +3365,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 499.41326904296875,
                     "op": "BO_Subtract",
                     "position": [
                         453.47918701171875,
                         209.11468505859375,
                         6.425546646118164
                     ],
-                    "height": 499.41326904296875,
                     "transform": [
                         0.18315717577934265,
                         -0.10999615490436554,
@@ -3414,21 +3414,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 497.7388000488281,
                     "op": "BO_Subtract",
                     "position": [
                         -451.77264404296875,
                         -208.90220642089844,
                         2.293407440185547
                     ],
-                    "height": 497.7388000488281,
                     "transform": [
                         -0.1882537603378296,
                         0.10189589858055115,
@@ -3463,21 +3463,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 500.8232421875,
                     "op": "BO_Subtract",
                     "position": [
                         445.2680969238281,
                         -229.11891174316406,
                         -8.047874450683594
                     ],
-                    "height": 500.8232421875,
                     "transform": [
                         0.18335801362991333,
                         -0.09388232231140137,
@@ -3512,21 +3512,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
+                    "height": 497.903564453125,
                     "op": "BO_Subtract",
                     "position": [
                         -442.91375732421875,
                         227.32748413085938,
                         -7.589476585388184
                     ],
-                    "height": 497.903564453125,
                     "transform": [
                         -0.18183442950248718,
                         0.09589388966560364,
@@ -3561,21 +3561,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
+                    "height": 498.5130615234375,
                     "op": "BO_Add",
                     "position": [
                         -434.8697814941406,
                         0.0440673828125,
                         -243.7283935546875
                     ],
-                    "height": 498.5130615234375,
                     "transform": [
                         -0.07842611521482468,
                         -0.4825795292854309,
@@ -3610,21 +3610,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
+                    "height": 498.9468688964844,
                     "op": "BO_Add",
                     "position": [
                         435.41796875,
                         0.17975616455078125,
                         243.63729858398438
                     ],
-                    "height": 498.9468688964844,
                     "transform": [
                         0.08801154047250748,
                         0.4803062677383423,
@@ -3659,21 +3659,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
+                    "height": 502.6763916015625,
                     "op": "BO_Add",
                     "position": [
                         438.6477355957031,
                         0.097259521484375,
                         -245.50294494628906
                     ],
-                    "height": 502.6763916015625,
                     "transform": [
                         0.07227274030447006,
                         0.4830142855644226,
@@ -3708,21 +3708,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
+                    "height": 496.788818359375,
                     "op": "BO_Add",
                     "position": [
                         -433.6788635253906,
                         -0.0092620849609375,
                         242.3257598876953
                     ],
-                    "height": 496.788818359375,
                     "transform": [
                         -0.07733958959579468,
                         -0.48161399364471436,
@@ -3757,21 +3757,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 498.9737854003906,
                     "op": "BO_Add",
                     "position": [
                         -411.80316162109375,
                         -206.22108459472656,
                         -192.0048065185547
                     ],
-                    "height": 498.9737854003906,
                     "transform": [
                         0.5345361828804016,
                         0.18207290768623352,
@@ -3806,21 +3806,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 497.110107421875,
                     "op": "BO_Add",
                     "position": [
                         -401.5492248535156,
                         155.7112274169922,
                         -248.25531005859375
                     ],
-                    "height": 497.110107421875,
                     "transform": [
                         -0.06324149668216705,
                         0.5860998034477234,
@@ -3855,21 +3855,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 497.1802978515625,
                     "op": "BO_Add",
                     "position": [
                         -409.05035400390625,
                         201.74710083007812,
                         197.8993682861328
                     ],
-                    "height": 497.1802978515625,
                     "transform": [
                         0.5623342990875244,
                         -0.08293481171131134,
@@ -3904,21 +3904,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 497.69805908203125,
                     "op": "BO_Add",
                     "position": [
                         -403.04541015625,
                         -180.9141845703125,
                         229.189453125
                     ],
-                    "height": 497.69805908203125,
                     "transform": [
                         0.5529584884643555,
                         -0.19603532552719116,
@@ -3953,21 +3953,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 501.9910888671875,
                     "op": "BO_Add",
                     "position": [
                         398.9954833984375,
                         -177.0389404296875,
                         -247.90093994140625
                     ],
-                    "height": 501.9910888671875,
                     "transform": [
                         -0.10290363430976868,
                         -0.5980491042137146,
@@ -4002,21 +4002,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 500.62847900390625,
                     "op": "BO_Add",
                     "position": [
                         410.02252197265625,
                         218.01950073242188,
                         -187.0237579345703
                     ],
-                    "height": 500.62847900390625,
                     "transform": [
                         0.5693269371986389,
                         -0.07127615809440613,
@@ -4051,21 +4051,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 497.83209228515625,
                     "op": "BO_Add",
                     "position": [
                         402.7581787109375,
                         198.74594116210938,
                         214.76190185546875
                     ],
-                    "height": 497.83209228515625,
                     "transform": [
                         0.5851802825927734,
                         -0.05517236888408661,
@@ -4100,21 +4100,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
+                    "height": 500.44122314453125,
                     "op": "BO_Add",
                     "position": [
                         410.52947998046875,
                         -204.46878051757812,
                         200.24853515625
                     ],
-                    "height": 500.44122314453125,
                     "transform": [
                         -0.5709701180458069,
                         0.03230339288711548,
@@ -4149,21 +4149,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 500.0764465332031,
                     "op": "BO_Add",
                     "position": [
                         273.0625915527344,
                         402.15985107421875,
                         -117.39129638671875
                     ],
-                    "height": 500.0764465332031,
                     "transform": [
                         0.7118112444877625,
                         0.4417728781700134,
@@ -4198,21 +4198,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 498.55548095703125,
                     "op": "BO_Add",
                     "position": [
                         -275.9521484375,
                         -134.50076293945312,
                         392.83270263671875
                     ],
-                    "height": 498.55548095703125,
                     "transform": [
                         -0.7181032299995422,
                         -0.4218551516532898,
@@ -4247,21 +4247,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 500.9140319824219,
                     "op": "BO_Add",
                     "position": [
                         276.358642578125,
                         -398.43109130859375,
                         125.67190551757812
                     ],
-                    "height": 500.9140319824219,
                     "transform": [
                         0.7601365447044373,
                         0.3432343900203705,
@@ -4296,21 +4296,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 500.1886291503906,
                     "op": "BO_Add",
                     "position": [
                         -277.02423095703125,
                         -392.7115478515625,
                         -138.6502685546875
                     ],
-                    "height": 500.1886291503906,
                     "transform": [
                         -0.6707450151443481,
                         -0.4933182895183563,
@@ -4345,21 +4345,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
+                    "height": 500.0397033691406,
                     "op": "BO_Add",
                     "position": [
                         -264.243896484375,
                         405.7296142578125,
                         124.89340209960938
                     ],
-                    "height": 500.0397033691406,
                     "transform": [
                         -0.6167556643486023,
                         -0.5834016799926758,
@@ -4394,21 +4394,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 498.19207763671875,
                     "op": "BO_Add",
                     "position": [
                         -0.28314971923828125,
                         352.46270751953125,
                         -352.08709716796875
                     ],
-                    "height": 498.19207763671875,
                     "transform": [
                         0.9988177418708801,
                         -0.04860973358154297,
@@ -4443,21 +4443,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 501.1361999511719,
                     "op": "BO_Add",
                     "position": [
                         501.13604736328125,
                         0.0964813232421875,
                         -0.3584136962890625
                     ],
-                    "height": 501.1361999511719,
                     "transform": [
                         -0.0007187273586168885,
                         -0.0001783249608706683,
@@ -4492,21 +4492,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/mountain/brushes/mountain_t1_large_8_ramp.json",
+                    "height": 496.7853088378906,
                     "op": "BO_Add",
                     "position": [
                         -496.7853088378906,
                         -0.11051559448242188,
                         0.0424346923828125
                     ],
-                    "height": 496.7853088378906,
                     "transform": [
                         -0.000083660073869396,
                         0.00022315348905976862,
@@ -4541,8 +4541,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 }
