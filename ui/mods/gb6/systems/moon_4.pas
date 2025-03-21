@@ -1,5 +1,5 @@
 {
-    "name": "# Super Moon Four | 4FFA, 2v2 | R600M220",
+    "name": "# Uber Moon 4 | 4FFA, 2v2 | R600M220",
     "description": "",
     "creator": "gb6",
     "version": "",
