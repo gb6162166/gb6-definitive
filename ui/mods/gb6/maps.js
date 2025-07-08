@@ -9,6 +9,7 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/croft.pas",
 	"coui://ui/mods/gb6/systems/gate_3.pas",
 	"coui://ui/mods/gb6/systems/fortx.pas",
+	"coui://ui/mods/gb6/systems/fracas.pas",	
 	"coui://ui/mods/gb6/systems/castle.pas",
 	"coui://ui/mods/gb6/systems/castle_8.pas",
 	"coui://ui/mods/gb6/systems/canyon.pas",
