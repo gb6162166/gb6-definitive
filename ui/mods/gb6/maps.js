@@ -22,6 +22,7 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/green_arena_3.pas",
 	"coui://ui/mods/gb6/systems/cold_3.pas",
 	"coui://ui/mods/gb6/systems/cold_2.pas",
+	"coui://ui/mods/gb6/systems/alpine_fury.pas",	
 	"coui://ui/mods/gb6/systems/cove.pas",
 	"coui://ui/mods/gb6/systems/misery.pas",
 	"coui://ui/mods/gb6/systems/thunder.pas",
