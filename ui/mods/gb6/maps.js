@@ -60,5 +60,7 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/orb_eight.pas",
 	"coui://ui/mods/gb6/systems/starborn.pas",
 	"coui://ui/mods/gb6/systems/station.pas",
-	"coui://ui/mods/gb6/systems/fallout_3_sh.pas"
+	"coui://ui/mods/gb6/systems/fallout_3_sh.pas",
+	"coui://ui/mods/gb6/systems/orange_4_sh.pas",
+	"coui://ui/mods/gb6/systems/green_mile_sh.pas"
 ]);
