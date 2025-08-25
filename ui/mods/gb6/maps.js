@@ -2,6 +2,7 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/conflict.pas",
 	"coui://ui/mods/gb6/systems/alpine_fury.pas",
 	"coui://ui/mods/gb6/systems/echo_cavern.pas",
+	"coui://ui/mods/gb6/systems/fallout_3.pas",
 	"coui://ui/mods/gb6/systems/red_head_3ffa.pas",
 	"coui://ui/mods/gb6/systems/red_head_6ffa.pas",
 	"coui://ui/mods/gb6/systems/red_head_3v3.pas",
@@ -58,5 +59,6 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/orb_six.pas",
 	"coui://ui/mods/gb6/systems/orb_eight.pas",
 	"coui://ui/mods/gb6/systems/starborn.pas",
-	"coui://ui/mods/gb6/systems/station.pas"
+	"coui://ui/mods/gb6/systems/station.pas",
+	"coui://ui/mods/gb6/systems/fallout_3_sh.pas"
 ]);
