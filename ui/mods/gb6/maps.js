@@ -1,4 +1,5 @@
 cShareSystems.load_pas("# gb6", [
+	"coui://ui/mods/gb6/systems/mill_volcano.pas",
 	"coui://ui/mods/gb6/systems/conflict.pas",
 	"coui://ui/mods/gb6/systems/alpine_fury.pas",
 	"coui://ui/mods/gb6/systems/echo_cavern.pas",
