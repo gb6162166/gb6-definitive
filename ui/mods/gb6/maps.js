@@ -1,5 +1,6 @@
 cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/mill_volcano.pas",
+	"coui://ui/mods/gb6/systems/mill_dry.pas",
 	"coui://ui/mods/gb6/systems/conflict.pas",
 	"coui://ui/mods/gb6/systems/alpine_fury.pas",
 	"coui://ui/mods/gb6/systems/echo_cavern.pas",
@@ -47,6 +48,7 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/vault_six_6.pas",
 	"coui://ui/mods/gb6/systems/vault_six_3.pas",
 	"coui://ui/mods/gb6/systems/vault_eight.pas",
+	"coui://ui/mods/gb6/systems/ocean_4.pas",	
 	"coui://ui/mods/gb6/systems/block.pas",
 	"coui://ui/mods/gb6/systems/moon_3.pas",
 	"coui://ui/mods/gb6/systems/moon_4.pas",
