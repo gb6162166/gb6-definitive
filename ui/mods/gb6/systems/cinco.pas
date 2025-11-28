@@ -1,5 +1,5 @@
 {
-    "name": "# Cinco Muertes | 5v5 | R700M210",
+    "name": "# Cinco Muertes | 5v5 | R700M240",
     "description": "",
     "creator": "gb6",
     "version": "",
@@ -39,15 +39,15 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.1818237304688,
                     "op": "BO_Add",
                     "position": [
                         -523.06640625,
                         169.5004425048828,
                         433.5039978027344
                     ],
-                    "height": 692.1818237304688,
                     "transform": [
                         1.3865344524383545,
                         0.7197599411010742,
@@ -82,21 +82,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.1818237304688,
                     "op": "BO_Add",
                     "position": [
                         -523.06640625,
                         169.5004425048828,
                         433.5039978027344
                     ],
-                    "height": 692.1818237304688,
                     "transform": [
                         1.3865344524383545,
                         0.7197599411010742,
@@ -131,21 +131,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 1,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.0372314453125,
                     "op": "BO_Add",
                     "position": [
                         -358.67254638671875,
                         116.79673767089844,
                         587.3402099609375
                     ],
-                    "height": 690.0372314453125,
                     "transform": [
                         1.8836307525634766,
                         0.7185907363891602,
@@ -180,21 +180,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.0372314453125,
                     "op": "BO_Add",
                     "position": [
                         -358.67254638671875,
                         116.79673767089844,
                         587.3402099609375
                     ],
-                    "height": 690.0372314453125,
                     "transform": [
                         1.8836307525634766,
                         0.7185907363891602,
@@ -229,21 +229,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 2,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.1133422851562,
                     "op": "BO_Add",
                     "position": [
                         -324.20208740234375,
                         -441.91766357421875,
                         434.00604248046875
                     ],
-                    "height": 691.1133422851562,
                     "transform": [
                         1.9057934284210205,
                         0.8383562564849854,
@@ -278,21 +278,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.1133422851562,
                     "op": "BO_Add",
                     "position": [
                         -324.20208740234375,
                         -441.91766357421875,
                         434.00604248046875
                     ],
-                    "height": 691.1133422851562,
                     "transform": [
                         1.9057934284210205,
                         0.8383562564849854,
@@ -327,21 +327,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 3,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.8649291992188,
                     "op": "BO_Add",
                     "position": [
                         -226.71934509277344,
                         -303.6662292480469,
                         588.38427734375
                     ],
-                    "height": 691.8649291992188,
                     "transform": [
                         1.9078381061553955,
                         1.1415369510650635,
@@ -376,21 +376,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.8649291992188,
                     "op": "BO_Add",
                     "position": [
                         -226.71934509277344,
                         -303.6662292480469,
                         588.38427734375
                     ],
-                    "height": 691.8649291992188,
                     "transform": [
                         1.9078381061553955,
                         1.1415369510650635,
@@ -425,21 +425,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 4,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.9097900390625,
                     "op": "BO_Add",
                     "position": [
                         328.772705078125,
                         -442.45733642578125,
                         429.6683044433594
                     ],
-                    "height": 690.9097900390625,
                     "transform": [
                         1.8854397535324097,
                         -0.8634659051895142,
@@ -474,21 +474,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.9097900390625,
                     "op": "BO_Add",
                     "position": [
                         328.772705078125,
                         -442.45733642578125,
                         429.6683044433594
                     ],
-                    "height": 690.9097900390625,
                     "transform": [
                         1.8854397535324097,
                         -0.8634659051895142,
@@ -523,21 +523,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 5,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.5840454101562,
                     "op": "BO_Add",
                     "position": [
                         230.7030029296875,
                         -307.39892578125,
                         584.5509643554688
                     ],
-                    "height": 691.5840454101562,
                     "transform": [
                         1.1540758609771729,
                         1.894738793373108,
@@ -572,21 +572,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 691.5840454101562,
                     "op": "BO_Add",
                     "position": [
                         230.7030029296875,
                         -307.39892578125,
                         584.5509643554688
                     ],
-                    "height": 691.5840454101562,
                     "transform": [
                         1.1540758609771729,
                         1.894738793373108,
@@ -621,21 +621,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 6,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 696.0785522460938,
                     "op": "BO_Add",
                     "position": [
                         526.859130859375,
                         173.48599243164062,
                         433.6458435058594
                     ],
-                    "height": 696.0785522460938,
                     "transform": [
                         1.3733656406402588,
                         -0.7376031279563904,
@@ -670,21 +670,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 696.0785522460938,
                     "op": "BO_Add",
                     "position": [
                         526.859130859375,
                         173.48599243164062,
                         433.6458435058594
                     ],
-                    "height": 696.0785522460938,
                     "transform": [
                         1.3733656406402588,
                         -0.7376031279563904,
@@ -719,21 +719,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 7,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 694.2698364257812,
                     "op": "BO_Add",
                     "position": [
                         365.86090087890625,
                         120.3010482788086,
                         587.2447509765625
                     ],
-                    "height": 694.2698364257812,
                     "transform": [
                         1.8650555610656738,
                         -0.7383825182914734,
@@ -768,21 +768,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 694.2698364257812,
                     "op": "BO_Add",
                     "position": [
                         365.86090087890625,
                         120.3010482788086,
                         587.2447509765625
                     ],
-                    "height": 694.2698364257812,
                     "transform": [
                         1.8650555610656738,
                         -0.7383825182914734,
@@ -817,21 +817,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 8,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.2471923828125,
                     "op": "BO_Add",
                     "position": [
                         0.6230716705322266,
                         552.29150390625,
                         430.4879455566406
                     ],
-                    "height": 692.2471923828125,
                     "transform": [
                         2.3499975204467773,
                         -0.0010213196510449052,
@@ -866,21 +866,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 10,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.2471923828125,
                     "op": "BO_Add",
                     "position": [
                         0.6230716705322266,
                         552.29150390625,
                         430.4879455566406
                     ],
-                    "height": 692.2471923828125,
                     "transform": [
                         2.3499975204467773,
                         -0.0010213196510449052,
@@ -915,21 +915,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 10,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.0687866210938,
                     "op": "BO_Add",
                     "position": [
                         0.32912635803222656,
                         383.3606872558594,
                         585.773681640625
                     ],
-                    "height": 692.0687866210938,
                     "transform": [
                         2.3499984741210938,
                         -0.0003293892368674278,
@@ -964,21 +964,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 11,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.0687866210938,
                     "op": "BO_Add",
                     "position": [
                         0.32912635803222656,
                         383.3606872558594,
                         585.773681640625
                     ],
-                    "height": 692.0687866210938,
                     "transform": [
                         2.3499984741210938,
                         -0.0003293892368674278,
@@ -1013,21 +1013,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 11,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 688.810302734375,
                     "op": "BO_Add",
                     "position": [
                         -188.45089721679688,
                         455.5905456542969,
                         495.2366638183594
                     ],
-                    "height": 688.810302734375,
                     "transform": [
                         1.6369764804840088,
                         0.011553362011909485,
@@ -1062,21 +1062,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 12,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 688.810302734375,
                     "op": "BO_Add",
                     "position": [
                         -188.45089721679688,
                         455.5905456542969,
                         495.2366638183594
                     ],
-                    "height": 688.810302734375,
                     "transform": [
                         1.6369764804840088,
                         0.011553362011909485,
@@ -1111,21 +1111,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 12,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.8146362304688,
                     "op": "BO_Add",
                     "position": [
                         -373.4591064453125,
                         321.99676513671875,
                         496.57513427734375
                     ],
-                    "height": 689.8146362304688,
                     "transform": [
                         1.19411039352417,
                         0.8006649017333984,
@@ -1160,21 +1160,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 13,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.8146362304688,
                     "op": "BO_Add",
                     "position": [
                         -373.4591064453125,
                         321.99676513671875,
                         496.57513427734375
                     ],
-                    "height": 689.8146362304688,
                     "transform": [
                         1.19411039352417,
                         0.8006649017333984,
@@ -1209,21 +1209,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 13,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 688.568115234375,
                     "op": "BO_Add",
                     "position": [
                         -491.0248107910156,
                         -38.99717330932617,
                         495.34967041015625
                     ],
-                    "height": 688.568115234375,
                     "transform": [
                         1.1901425123214722,
                         0.21376284956932068,
@@ -1258,21 +1258,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 14,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 688.568115234375,
                     "op": "BO_Add",
                     "position": [
                         -491.0248107910156,
                         -38.99717330932617,
                         495.34967041015625
                     ],
-                    "height": 688.568115234375,
                     "transform": [
                         1.1901425123214722,
                         0.21376284956932068,
@@ -1307,21 +1307,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 14,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.3844604492188,
                     "op": "BO_Add",
                     "position": [
                         -425.05548095703125,
                         -252.94384765625,
                         495.8685607910156
                     ],
-                    "height": 690.3844604492188,
                     "transform": [
                         1.1463111639022827,
                         0.7152215242385864,
@@ -1356,21 +1356,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 15,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.3844604492188,
                     "op": "BO_Add",
                     "position": [
                         -425.05548095703125,
                         -252.94384765625,
                         495.8685607910156
                     ],
-                    "height": 690.3844604492188,
                     "transform": [
                         1.1463111639022827,
                         0.7152215242385864,
@@ -1405,21 +1405,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 15,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.305908203125,
                     "op": "BO_Add",
                     "position": [
                         -114.9013442993164,
                         -478.82000732421875,
                         496.5458984375
                     ],
-                    "height": 689.305908203125,
                     "transform": [
                         1.5075730085372925,
                         0.7343023419380188,
@@ -1454,21 +1454,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.305908203125,
                     "op": "BO_Add",
                     "position": [
                         -114.9013442993164,
                         -478.82000732421875,
                         496.5458984375
                     ],
-                    "height": 689.305908203125,
                     "transform": [
                         1.5075730085372925,
                         0.7343023419380188,
@@ -1503,21 +1503,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 16,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.0000610351562,
                     "op": "BO_Add",
                     "position": [
                         118.72477722167969,
                         -479.8845520019531,
                         495.595947265625
                     ],
-                    "height": 690.0000610351562,
                     "transform": [
                         1.5005730390548706,
                         -0.7450793981552124,
@@ -1552,21 +1552,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.0000610351562,
                     "op": "BO_Add",
                     "position": [
                         118.72477722167969,
                         -479.8845520019531,
                         495.595947265625
                     ],
-                    "height": 690.0000610351562,
                     "transform": [
                         1.5005730390548706,
                         -0.7450793981552124,
@@ -1601,21 +1601,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 17,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.050537109375,
                     "op": "BO_Add",
                     "position": [
                         426.2509460449219,
                         -252.79690551757812,
                         493.0268859863281
                     ],
-                    "height": 689.050537109375,
                     "transform": [
                         0.734930694103241,
                         1.1293197870254517,
@@ -1650,21 +1650,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 18,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 689.050537109375,
                     "op": "BO_Add",
                     "position": [
                         426.2509460449219,
                         -252.79690551757812,
                         493.0268859863281
                     ],
-                    "height": 689.050537109375,
                     "transform": [
                         0.734930694103241,
                         1.1293197870254517,
@@ -1699,21 +1699,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 18,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.2507934570312,
                     "op": "BO_Add",
                     "position": [
                         493.11492919921875,
                         -34.100242614746094,
                         496.0101318359375
                     ],
-                    "height": 690.2507934570312,
                     "transform": [
                         1.1848907470703125,
                         -0.22999662160873413,
@@ -1748,21 +1748,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 690.2507934570312,
                     "op": "BO_Add",
                     "position": [
                         493.11492919921875,
                         -34.100242614746094,
                         496.0101318359375
                     ],
-                    "height": 690.2507934570312,
                     "transform": [
                         1.1848907470703125,
                         -0.22999662160873413,
@@ -1797,21 +1797,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 20,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 693.8265991210938,
                     "op": "BO_Add",
                     "position": [
                         375.6958312988281,
                         324.3092041015625,
                         499.047119140625
                     ],
-                    "height": 693.8265991210938,
                     "transform": [
                         1.1936980485916138,
                         -0.8010176420211792,
@@ -1846,21 +1846,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 693.8265991210938,
                     "op": "BO_Add",
                     "position": [
                         375.6958312988281,
                         324.3092041015625,
                         499.047119140625
                     ],
-                    "height": 693.8265991210938,
                     "transform": [
                         1.1936980485916138,
                         -0.8010176420211792,
@@ -1895,21 +1895,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 21,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.4852294921875,
                     "op": "BO_Add",
                     "position": [
                         187.96554565429688,
                         458.2481689453125,
                         498.15966796875
                     ],
-                    "height": 692.4852294921875,
                     "transform": [
                         1.6379822492599487,
                         -0.010135754942893982,
@@ -1944,21 +1944,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_metal_t3_small.json",
+                    "height": 692.4852294921875,
                     "op": "BO_Add",
                     "position": [
                         187.96554565429688,
                         458.2481689453125,
                         498.15966796875
                     ],
-                    "height": 692.4852294921875,
                     "transform": [
                         1.6379822492599487,
                         -0.010135754942893982,
@@ -1993,8 +1993,8 @@
                     ],
                     "mirrored": true,
                     "twinId": 22,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": true
                 }
@@ -3049,6 +3049,156 @@
                     -354.6806335449219,
                     359.29534912109375,
                     -489.5589599609375
+                ],
+                [
+                    -57.44207763671875,
+                    551.683837890625,
+                    429.89227294921875
+                ],
+                [
+                    -57.44207763671875,
+                    551.683837890625,
+                    -429.89227294921875
+                ],
+                [
+                    0.7183053493499756,
+                    554.2225341796875,
+                    432.0732116699219
+                ],
+                [
+                    0.7183053493499756,
+                    554.2225341796875,
+                    -432.0732116699219
+                ],
+                [
+                    60.2900505065918,
+                    552.5098266601562,
+                    431.0996398925781
+                ],
+                [
+                    60.2900505065918,
+                    552.5098266601562,
+                    -431.0996398925781
+                ],
+                [
+                    528.6437377929688,
+                    174.37039184570312,
+                    435.1730041503906
+                ],
+                [
+                    528.6437377929688,
+                    174.37039184570312,
+                    -435.1730041503906
+                ],
+                [
+                    508.0743713378906,
+                    230.2303466796875,
+                    433.8998718261719
+                ],
+                [
+                    508.0743713378906,
+                    230.2303466796875,
+                    -433.8998718261719
+                ],
+                [
+                    545.1276245117188,
+                    116.70127868652344,
+                    433.3148193359375
+                ],
+                [
+                    545.1276245117188,
+                    116.70127868652344,
+                    -433.3148193359375
+                ],
+                [
+                    329.6834716796875,
+                    -444.18548583984375,
+                    431.2494201660156
+                ],
+                [
+                    329.6834716796875,
+                    -444.18548583984375,
+                    -431.2494201660156
+                ],
+                [
+                    280.779541015625,
+                    -478.14117431640625,
+                    429.4022216796875
+                ],
+                [
+                    280.779541015625,
+                    -478.14117431640625,
+                    -429.4022216796875
+                ],
+                [
+                    376.509033203125,
+                    -406.5297546386719,
+                    429.626953125
+                ],
+                [
+                    376.509033203125,
+                    -406.5297546386719,
+                    -429.626953125
+                ],
+                [
+                    -372.58514404296875,
+                    -407.7114562988281,
+                    434.04656982421875
+                ],
+                [
+                    -372.58514404296875,
+                    -407.7114562988281,
+                    -434.04656982421875
+                ],
+                [
+                    -325.03173828125,
+                    -443.69317626953125,
+                    435.5899658203125
+                ],
+                [
+                    -325.03173828125,
+                    -443.69317626953125,
+                    -435.5899658203125
+                ],
+                [
+                    -276.0775146484375,
+                    -476.7454833984375,
+                    434.64959716796875
+                ],
+                [
+                    -276.0775146484375,
+                    -476.7454833984375,
+                    -434.64959716796875
+                ],
+                [
+                    -525.0493774414062,
+                    169.7869873046875,
+                    435.0284423828125
+                ],
+                [
+                    -525.0493774414062,
+                    169.7869873046875,
+                    -435.0284423828125
+                ],
+                [
+                    -504.6004638671875,
+                    226.13343811035156,
+                    433.0184326171875
+                ],
+                [
+                    -504.6004638671875,
+                    226.13343811035156,
+                    -433.0184326171875
+                ],
+                [
+                    -541.0751953125,
+                    112.59191131591797,
+                    434.08099365234375
+                ],
+                [
+                    -541.0751953125,
+                    112.59191131591797,
+                    -434.08099365234375
                 ]
             ],
             "landing_zones": {
