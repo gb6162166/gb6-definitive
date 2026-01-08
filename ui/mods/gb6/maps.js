@@ -1,4 +1,5 @@
 cShareSystems.load_pas("# gb6", [
+	"coui://ui/mods/gb6/systems/mill_park.pas",		
 	"coui://ui/mods/gb6/systems/mill_volcano.pas",
 	"coui://ui/mods/gb6/systems/conflict.pas",
 	"coui://ui/mods/gb6/systems/alpine_fury.pas",
@@ -27,7 +28,8 @@ cShareSystems.load_pas("# gb6", [
 	"coui://ui/mods/gb6/systems/green_arena_3.pas",
 	"coui://ui/mods/gb6/systems/cold_3.pas",
 	"coui://ui/mods/gb6/systems/cold_2.pas",
-	"coui://ui/mods/gb6/systems/mill_frozen.pas",			
+	"coui://ui/mods/gb6/systems/mill_frozen.pas",
+	"coui://ui/mods/gb6/systems/mill_flood.pas",	
 	"coui://ui/mods/gb6/systems/cove.pas",
 	"coui://ui/mods/gb6/systems/misery.pas",
 	"coui://ui/mods/gb6/systems/thunder.pas",
